@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579689147138.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D40929DC",
+    "lastKnownWriteTime" : 1579692283,
+    "last_content_update" : 1579692283229,
+    "path" : "/data/Projets/visualisation/SeanceVisualisation.Rmd",
+    "project_path" : "SeanceVisualisation.Rmd",
+    "properties" : {
+        "cursorPosition" : "22,90",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

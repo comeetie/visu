@@ -1,0 +1,9 @@
+"0","# On charge tout d'abord le package ""sf"""
+"0","library(sf)"
+"2","Linking to GEOS 3.7.0, GDAL 2.4.0, PROJ 5.2.0
+"
+"0","# On se place dans le bon répertoire"
+"0","setwd(""C:/Users/thoma/OneDrive/Bureau/FAC Paris V/Recueil de donnees"")"
+"2","Error in setwd(""C:/Users/thoma/OneDrive/Bureau/FAC Paris V/Recueil de donnees"") : 
+  impossible de changer de répertoire de travail
+"

@@ -1,0 +1,2 @@
+"0","leaflet(data=v) %>% addTiles() %>% "
+"0","  addCircleMarkers(radius = ~ sqrt(availableBikes),stroke=FALSE,fillOpacity = 1,color = ""red"")"

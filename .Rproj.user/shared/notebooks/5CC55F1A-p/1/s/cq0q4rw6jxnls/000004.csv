@@ -1,0 +1,2 @@
+"0",""
+"0","st.sf = st_as_sf(stations %>% filter(longitude!=0,latitude!=0),coords = c(""longitude"",""latitude""),crs=4326)"

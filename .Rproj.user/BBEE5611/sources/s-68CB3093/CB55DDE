@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579687074971.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2368432058",
+    "id" : "CB55DDE",
+    "lastKnownWriteTime" : 1579692889,
+    "last_content_update" : 1579692889482,
+    "path" : "/data/Projets/visualisation/Intro.Rmd",
+    "project_path" : "Intro.Rmd",
+    "properties" : {
+        "cursorPosition" : "49,58",
+        "scrollLine" : "22"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
