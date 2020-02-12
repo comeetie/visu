@@ -448,21 +448,22 @@ leaflet(data = sm.center.4326 ) %>%
 ## Exercice
 <p>Charger les contours des départements français contenus dans le répertoire exo6_dep</p>
 <p>Calculer à partir des données communales contenues dans le fichier exo6_data.csv des taux de naissances par départements.</p>
-<p>Joindre les deux tables et vérifier ques des données sont associés à chaque départements.</p>
+<p>Joindre les deux tables et vérifier ques des données sont associées à chaque départements.</p>
+<p>Corriger les problèmes de jointure éventuels.</p>
 <p>Exporter les données en geojson</p>
 <p>Réaliser une carte choroplèthe avec ces données.</p>
 
 
 ## Exercice
 <p>Calculer et afficher les voronois associés aux stations velib de new-york.</p>
-<p> Les données sont disponnibles dans le fichiers json ./data/inputNewYork.json</p>
+<p>Les données sont disponnibles dans le fichiers json ./data/input_NewYork.json</p>
 <p>Créer une data.frame avec les latitudes, longitudes et nbr de vélos des stations</p> 
 <p>Utiliser la fonction st_as_sf avec l'option coords pour transformer celle-ci en data.frame spatiale.</p>
 
 ## Exercice
 <p>Faire une carte interactive des monuments historiques à paris</p>
 <p>Faire une carte en symbol proportionel avec le nombre de monuments par iris.</p>
-<p>regarder la fonction st_overlaps</p>
+<p>regarder les fonctions st_contains,st_within</p>
 <p>! vous travaillerez avec des données en lambert 93</p>
 <p>Calculer la densité de monuments par hectare pour chaque iris.</p>
 <p>Faire une carte choroplète</p>

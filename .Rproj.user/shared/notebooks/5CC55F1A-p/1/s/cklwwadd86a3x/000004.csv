@@ -1,5 +1,0 @@
-"0","json = fromJSON(file=""./data/input_NewYork.json"")"
-"0",""
-"0","lst = lapply(json$stationBeanList, function(s){as.data.frame(s)})"
-"0","stations = do.call(rbind,lst)"
-"0","head(stations)"

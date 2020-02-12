@@ -1,7 +1,0 @@
-"0","library(sf)"
-"0","library(dplyr)"
-"0","library(stringr)"
-"0","library(leaflet)"
-"0","library(rjson)"
-"0","library(cartography)"
-"0","cont_dep = read_sf(""data/exo6_dep/dep.shp"")"

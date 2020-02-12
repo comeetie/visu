@@ -1,2 +1,0 @@
-"0","data = read.csv(""data/exo6_data.csv"", header = TRUE, sep = "","", encoding = ""UTF-8"")"
-"0","head(data)"

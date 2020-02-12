@@ -1,3 +1,0 @@
-"0","data_join = cont_dep %>% "
-"0","  inner_join(data_nais,by=c(""code_insee""=""code_dept"")) %>% "
-"0","  filter(!is.na(taux))"

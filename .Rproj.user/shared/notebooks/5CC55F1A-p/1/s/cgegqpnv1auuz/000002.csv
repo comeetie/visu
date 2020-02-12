@@ -1,4 +1,0 @@
-"0","leaflet(data = monum) %>% "
-"0","  addTiles() %>%"
-"0","  addMarkers( popup = ~as.character(Appellation.courante), "
-"0","              label = ~as.character(Appellation.courante))"

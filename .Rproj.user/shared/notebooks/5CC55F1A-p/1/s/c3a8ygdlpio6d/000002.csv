@@ -1,3 +1,0 @@
-"0","monum_paris = read_sf(""./data/monuments_paris.geojson"")"
-"0","monum_histo = read.csv(""./data/monuments-historiques.csv"", sep="";"",stringsAsFactors = FALSE, encoding = ""UTF-8"")"
-"0","monum = monum_paris %>% inner_join(monum_histo,by=c(""id""=""Référence""))"
